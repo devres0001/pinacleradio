@@ -34,7 +34,7 @@ Mobile/Tablet Apps of All Kinds, eCommerce: Web and Mobile, Mobile Games
 
 ## License
 
-The contents of this repository is licensed under the https://github.com/devres0001/KuaiShu/blob/master/LICENSE
+The contents of this repository is licensed under the https://github.com/devres0001/pinacleradio/blob/master/LICENSE
 
 ## Acknowledgments
 
